@@ -1,5 +1,5 @@
 ## ссылка
-https://rolling-scopes-school.github.io/brutski93-JSFEPRESCHOOL2024Q2/shelter/index.html
+https://brutski93.github.io/shelter-2024/shelter/
 
 ### problems
 * start-screen-content top 180px -> 150px ???
